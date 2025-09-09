@@ -1,0 +1,4 @@
+name: Spigot
+version: '1.0-EXPERIMENTAL'
+main: guards.white.spigot.Spigot
+api-version: '1.21'

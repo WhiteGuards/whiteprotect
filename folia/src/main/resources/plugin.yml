@@ -1,0 +1,4 @@
+name: Folia
+version: '1.0-EXPERIMENTAL'
+main: guards.white.folia.Folia
+api-version: '1.21'

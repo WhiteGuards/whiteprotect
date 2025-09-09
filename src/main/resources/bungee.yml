@@ -1,0 +1,3 @@
+name: Whiteguard
+version: '1.0-EXPERIMENTAL'
+main: guards.white.whiteguard.Whiteguard
