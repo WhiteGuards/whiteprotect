@@ -16,4 +16,8 @@ public final class MessageServiceImpl implements MessageService {
     @Override public Component component(String key, Map<String,Object> placeholders) {
         return catalog.get(key, placeholders);
     }
+
+    public Component component(String key) {
+        return catalog.get(key, Map.of());
+    }
 }
